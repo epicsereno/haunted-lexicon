@@ -13,7 +13,7 @@ export function Button({
   return (
     <button
       className={cn(
-        "inline-flex items-center justify-center gap-2 rounded-[var(--radius-sm)] font-medium transition-[opacity,transform,background-color,border-color] duration-150 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-accent)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--color-bg)] active:scale-[0.98] disabled:pointer-events-none disabled:opacity-45",
+        "inline-flex items-center justify-center gap-2 rounded-[var(--radius-sm)] font-medium transition-[opacity,transform,background-color,border-color] duration-150 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-accent)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--color-bg)] active:scale-[0.96] disabled:pointer-events-none disabled:opacity-45",
         size === "sm" && "h-9 px-3 text-sm",
         size === "md" && "h-11 px-4 text-sm",
         size === "lg" && "h-12 px-5 text-base",
@@ -45,12 +45,13 @@ export function Badge({
   );
 }
 
-export function Input({
-  className,
-  ...props
-}: React.InputHTMLAttributes<HTMLInputElement>) {
+export const Input = React.forwardRef<
+  HTMLInputElement,
+  React.InputHTMLAttributes<HTMLInputElement>
+>(function Input({ className, ...props }, ref) {
   return (
     <input
+      ref={ref}
       className={cn(
         "h-11 w-full rounded-[var(--radius-sm)] border border-[var(--color-border-strong)] bg-[var(--color-bg-elevated)] px-3 text-sm text-[var(--color-fg)] placeholder:text-[var(--color-fg-subtle)] outline-none transition-[border-color,box-shadow] duration-150 focus:border-[var(--color-accent)] focus:ring-2 focus:ring-[color-mix(in_oklab,var(--color-accent)_25%,transparent)]",
         className,
@@ -58,4 +59,4 @@ export function Input({
       {...props}
     />
   );
-}
+});

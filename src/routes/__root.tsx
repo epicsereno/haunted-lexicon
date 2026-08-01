@@ -8,12 +8,12 @@ export const Route = createRootRoute({
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       {
-        title: "Haunted Lexicon — 100 Words to Describe Places",
+        title: "Horror & Halloween Lexicon — 101 Blocks of Unquiet Words",
       },
       {
         name: "description",
         content:
-          "An interactive lexicon of 100 haunted words. Summon place descriptions, explore categories, and read the Ultimate Haunted Dominion.",
+          "Explore 101 themed horror lexicon blocks (~1,120 words). Filter by set, favor entries, summon haunted place descriptions, and run block rituals.",
       },
       { name: "theme-color", content: "#0a0a0b" },
     ],
