@@ -1,0 +1,1834 @@
+{
+  "title": "Horror & Halloween Lexicon",
+  "block_count": 101,
+  "word_count": 1120,
+  "blocks": [
+    {
+      "id": 1,
+      "name": "Malice",
+      "set": "sinister",
+      "words": [
+        "malevolent",
+        "sinister",
+        "nefarious",
+        "insidious",
+        "treacherous",
+        "ruthless",
+        "merciless",
+        "pitiless",
+        "remorseless",
+        "vile",
+        "venomous",
+        "wicked",
+        "cruel",
+        "spiteful",
+        "vindictive",
+        "predatory",
+        "tyrannical",
+        "despotic",
+        "wrathful",
+        "callous"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Shadow",
+      "set": "sinister",
+      "words": [
+        "abyssal",
+        "umbral",
+        "murky",
+        "gloaming",
+        "shrouded",
+        "veiled",
+        "cloaked",
+        "lurking",
+        "creeping",
+        "stalking",
+        "eclipsed",
+        "starless",
+        "moonless",
+        "subterranean",
+        "fathomless",
+        "void",
+        "chasm",
+        "oubliette",
+        "labyrinthine",
+        "unseen"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Omen",
+      "set": "sinister",
+      "words": [
+        "ominous",
+        "baleful",
+        "foreboding",
+        "portentous",
+        "doomed",
+        "accursed",
+        "damned",
+        "blighted",
+        "fated",
+        "ill-starred",
+        "prophetic",
+        "harbinger",
+        "augury",
+        "knell",
+        "dirge",
+        "requiem",
+        "lament",
+        "tolling",
+        "withering",
+        "inexorable"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Decay",
+      "set": "sinister",
+      "words": [
+        "macabre",
+        "ghastly",
+        "sepulchral",
+        "charnel",
+        "carrion",
+        "ossuary",
+        "crypt",
+        "festering",
+        "putrid",
+        "gangrenous",
+        "necrotic",
+        "moldering",
+        "worm-eaten",
+        "exsanguinate",
+        "miasma",
+        "pestilent",
+        "contagion",
+        "plague",
+        "rot",
+        "husk"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dominion",
+      "set": "sinister",
+      "words": [
+        "garrote",
+        "throttle",
+        "sever",
+        "flay",
+        "impale",
+        "gallows",
+        "shackle",
+        "dungeon",
+        "brand",
+        "scourge",
+        "subjugate",
+        "annihilate",
+        "obliterate",
+        "devour",
+        "maw",
+        "fang",
+        "talon",
+        "sinew",
+        "ember",
+        "ash"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Atmosphere",
+      "set": "halloween",
+      "words": [
+        "spooky",
+        "eerie",
+        "creepy",
+        "haunting",
+        "chilling",
+        "ghostly",
+        "ghoulish",
+        "spectral",
+        "uncanny",
+        "otherworldly",
+        "moonlit",
+        "foggy",
+        "misty",
+        "murky",
+        "shadowy",
+        "gloomy",
+        "dim",
+        "flickering",
+        "crisp",
+        "frosty"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Creatures",
+      "set": "halloween",
+      "words": [
+        "witch",
+        "wizard",
+        "vampire",
+        "werewolf",
+        "zombie",
+        "mummy",
+        "goblin",
+        "gremlin",
+        "imp",
+        "banshee",
+        "wraith",
+        "phantom",
+        "poltergeist",
+        "skeleton",
+        "gargoyle",
+        "black cat",
+        "bat",
+        "spider",
+        "raven",
+        "crow"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Places",
+      "set": "halloween",
+      "words": [
+        "graveyard",
+        "cemetery",
+        "tombstone",
+        "crypt",
+        "mausoleum",
+        "haunted house",
+        "manor",
+        "attic",
+        "cellar",
+        "dungeon",
+        "cobwebbed",
+        "creaking",
+        "abandoned",
+        "derelict",
+        "forsaken",
+        "moonlit hollow",
+        "hayfield",
+        "cornfield",
+        "forest",
+        "moor"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Objects",
+      "set": "halloween",
+      "words": [
+        "jack-o'-lantern",
+        "cauldron",
+        "broomstick",
+        "potion",
+        "spellbook",
+        "candelabra",
+        "lantern",
+        "cobweb",
+        "coffin",
+        "tombstone",
+        "mask",
+        "costume",
+        "cape",
+        "wand",
+        "crystal ball",
+        "scythe",
+        "hourglass",
+        "keyring",
+        "mirror",
+        "portrait"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Sounds & Sensations",
+      "set": "halloween",
+      "words": [
+        "howling",
+        "wailing",
+        "moaning",
+        "shrieking",
+        "cackling",
+        "rattling",
+        "creaking",
+        "groaning",
+        "whispering",
+        "rustling",
+        "thudding",
+        "scuttling",
+        "hissing",
+        "tolling",
+        "dripping",
+        "prickling",
+        "shivering",
+        "breathless",
+        "hushed",
+        "sudden"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Treats & Fun",
+      "set": "halloween",
+      "words": [
+        "candy corn",
+        "caramel apple",
+        "pumpkin spice",
+        "cider",
+        "bobbing",
+        "trick-or-treat",
+        "costume parade",
+        "bonfire",
+        "hayride",
+        "corn maze",
+        "ghost story",
+        "seance",
+        "prank",
+        "sugar rush",
+        "festive",
+        "whimsical",
+        "playful",
+        "mischievous",
+        "jolly",
+        "cozy"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Dread",
+      "set": "nightmare",
+      "words": [
+        "suffocating",
+        "paralyzing",
+        "creeping",
+        "inescapable",
+        "cold-sweat",
+        "breathless",
+        "gnawing",
+        "mounting",
+        "wordless",
+        "primal"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Wrongness",
+      "set": "nightmare",
+      "words": [
+        "malformed",
+        "unhinged",
+        "contorted",
+        "boneless",
+        "jointless",
+        "too-many-limbed",
+        "wrong-angled",
+        "mismatched",
+        "hollow-eyed",
+        "grinning-too-wide"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Flesh",
+      "set": "nightmare",
+      "words": [
+        "flayed",
+        "blistered",
+        "sinewy",
+        "glistening",
+        "split",
+        "weeping",
+        "suture",
+        "marrow",
+        "gristle",
+        "viscera"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "The Watcher",
+      "set": "nightmare",
+      "words": [
+        "unblinking",
+        "lidless",
+        "pupilless",
+        "milk-white",
+        "following",
+        "always-behind",
+        "sleepless",
+        "patient",
+        "hungry",
+        "waiting"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Sound in the Dark",
+      "set": "nightmare",
+      "words": [
+        "scraping",
+        "dragging",
+        "wet",
+        "rhythmic",
+        "breathing",
+        "footsteps-upstairs",
+        "door-unlatching",
+        "humming",
+        "whispering-your-name",
+        "silence-after"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The House",
+      "set": "nightmare",
+      "words": [
+        "sagging",
+        "rot-timbered",
+        "mildewed",
+        "endless-hallway",
+        "door-that-wasn't-there",
+        "staircase-down",
+        "basement-deeper-than-the-house",
+        "sealed room",
+        "peeling",
+        "cold spot"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Sleep",
+      "set": "nightmare",
+      "words": [
+        "paralysis",
+        "weight-on-chest",
+        "half-waking",
+        "false-awakening",
+        "recurring",
+        "someone-in-the-doorway",
+        "whispers-at-the-pillow",
+        "drowning",
+        "falling",
+        "unable-to-scream"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Decay & After",
+      "set": "nightmare",
+      "words": [
+        "putrescent",
+        "bloated",
+        "maggot-riddled",
+        "blackened",
+        "sloughing",
+        "embalmed",
+        "exhumed",
+        "unearthed",
+        "shallow-grave",
+        "still-warm"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Loss of Self",
+      "set": "nightmare",
+      "words": [
+        "dissolving",
+        "unraveling",
+        "memory-gaps",
+        "mirror-lagging",
+        "wearing-your-face",
+        "mimicking",
+        "replaced",
+        "forgotten-by-everyone",
+        "unable-to-prove",
+        "no-one-believes-you"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Inevitability",
+      "set": "nightmare",
+      "words": [
+        "closing-in",
+        "no-exit",
+        "circling-back",
+        "always-the-same-room",
+        "counting-down",
+        "footsteps-quickening",
+        "door-already-open",
+        "it-knows",
+        "it-remembers",
+        "it's-here"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "The Body Betrays",
+      "set": "nightmare",
+      "words": [
+        "twitching",
+        "seizing",
+        "numbing",
+        "unresponsive",
+        "foreign-feeling",
+        "hand-not-yours",
+        "skin-crawling",
+        "teeth-loosening",
+        "throat-closing",
+        "blood-in-the-mouth"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Cold",
+      "set": "nightmare",
+      "words": [
+        "glacial",
+        "marrow-deep",
+        "breath-fogging",
+        "frost-rimed",
+        "blue-lipped",
+        "shivering-past-warmth",
+        "sinking",
+        "hypothermic",
+        "still",
+        "final"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Distance & Isolation",
+      "set": "nightmare",
+      "words": [
+        "miles-from-anyone",
+        "no-signal",
+        "road-unmarked",
+        "snowed-in",
+        "tide-cut-off",
+        "last-house",
+        "unlit",
+        "unreachable",
+        "unheard",
+        "alone"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Time Gone Wrong",
+      "set": "nightmare",
+      "words": [
+        "hours-missing",
+        "clock-stopped",
+        "dawn-that-never-comes",
+        "looping",
+        "out-of-sequence",
+        "aged-overnight",
+        "already-happened",
+        "deja vu",
+        "tomorrow-again",
+        "no-clock-agrees"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Crowd",
+      "set": "nightmare",
+      "words": [
+        "masked",
+        "unspeaking",
+        "turning-in-unison",
+        "smiling-together",
+        "chanting",
+        "ringed-around",
+        "stepping-closer",
+        "parting-for-you",
+        "expectant",
+        "chosen"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Water",
+      "set": "nightmare",
+      "words": [
+        "black-surfaced",
+        "depthless",
+        "weed-tangled",
+        "undertow",
+        "submerged",
+        "rising",
+        "flooded-basement",
+        "well-bottom",
+        "something-below",
+        "wet-footprints"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Old & Buried",
+      "set": "nightmare",
+      "words": [
+        "barrow",
+        "cairn",
+        "standing-stone",
+        "unmarked",
+        "disturbed",
+        "unearthed-wrong",
+        "older-than-the-town",
+        "sealed-for-reason",
+        "warning-carved",
+        "awoken"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Small Wrong Things",
+      "set": "nightmare",
+      "words": [
+        "doll-eyed",
+        "porcelain-cracked",
+        "music-box",
+        "wind-up",
+        "hand-drawn",
+        "child's-writing",
+        "chalk-circle",
+        "milk-teeth",
+        "empty-swing",
+        "toy-that-moved"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Appetite",
+      "set": "nightmare",
+      "words": [
+        "ravenous",
+        "gorging",
+        "insatiable",
+        "thin-lipped",
+        "salivating",
+        "licking",
+        "sizing-up",
+        "unsated",
+        "feeding",
+        "feeder"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Aftermath",
+      "set": "nightmare",
+      "words": [
+        "scoured",
+        "emptied",
+        "ash-strewn",
+        "unclaimed",
+        "unreported",
+        "still-missing",
+        "case-closed",
+        "one-survivor",
+        "nobody-speaks-of-it",
+        "again-next-year"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Sight",
+      "set": "sensory",
+      "words": [
+        "peripheral",
+        "half-glimpsed",
+        "gone-when-looked-at",
+        "doubled",
+        "reflected-wrong",
+        "out-of-focus",
+        "too-still-to-be-a-person",
+        "silhouette",
+        "backlit",
+        "blinking-and-it-moved"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Smell",
+      "set": "sensory",
+      "words": [
+        "coppery",
+        "sweet-rotten",
+        "ammonia",
+        "wet-earth",
+        "burnt-hair",
+        "incense-thick",
+        "sour-milk",
+        "formaldehyde",
+        "animal",
+        "unplaceable"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Texture",
+      "set": "sensory",
+      "words": [
+        "clammy",
+        "tacky",
+        "fibrous",
+        "membranous",
+        "hair-fine",
+        "slick",
+        "scabbed",
+        "powdery",
+        "warm-where-it-shouldn't-be",
+        "yielding"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "The Threshold",
+      "set": "nightmare",
+      "words": [
+        "ajar",
+        "unlocked-from-inside",
+        "chain-swinging",
+        "screen-torn",
+        "welcome-mat-moved",
+        "handprint",
+        "key-that-still-works",
+        "invitation",
+        "crossing",
+        "no-going-back"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Documents & Evidence",
+      "set": "nightmare",
+      "words": [
+        "redacted",
+        "water-damaged",
+        "missing-pages",
+        "handwriting-changes",
+        "last-entry",
+        "transcript-cuts-off",
+        "photo-with-an-extra-person",
+        "tape-hiss",
+        "log-abandoned",
+        "recovered"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Ritual",
+      "set": "nightmare",
+      "words": [
+        "sigil",
+        "salt-line",
+        "effigy",
+        "tithe",
+        "offering",
+        "name-spoken-thrice",
+        "threshold-blood",
+        "bell-book-candle",
+        "unbroken-circle",
+        "price-paid"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Institutions",
+      "set": "nightmare",
+      "words": [
+        "asylum",
+        "sanatorium",
+        "ward",
+        "restraint",
+        "sedated",
+        "observation-room",
+        "padded",
+        "orderlies",
+        "no-visitors",
+        "discharged-to-nowhere"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Wilderness",
+      "set": "nightmare",
+      "words": [
+        "treeline",
+        "deadfall",
+        "trailless",
+        "cairn-that-wasn't-there-before",
+        "antlered",
+        "tracks-turning-back",
+        "birdless",
+        "hush",
+        "tent-wall",
+        "something-circling"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Kin",
+      "set": "nightmare",
+      "words": [
+        "inherited",
+        "bloodline",
+        "family-plot",
+        "resemblance",
+        "mother's-voice",
+        "the-attic-cousin",
+        "portrait-eyes",
+        "letters-from-a-dead-relative",
+        "heirloom",
+        "cursed-line"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Endings",
+      "set": "nightmare",
+      "words": [
+        "snuffed",
+        "unwitnessed",
+        "incomplete",
+        "mid-sentence",
+        "static",
+        "cut-to-black",
+        "no-body-recovered",
+        "the-light-goes",
+        "and-then",
+        "\u2014"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Sound Absence",
+      "set": "sensory",
+      "words": [
+        "deafened",
+        "ear-ringing",
+        "muffled",
+        "underwater",
+        "no-echo",
+        "dead-air",
+        "room-swallows-noise",
+        "birdsong-stopped",
+        "own-heartbeat-loud",
+        "listening-back"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Voices",
+      "set": "sensory",
+      "words": [
+        "flat",
+        "affectless",
+        "singsong",
+        "overlapping",
+        "in-unison",
+        "mimicking",
+        "played-backward",
+        "half-familiar",
+        "calling-from-far",
+        "answering-too-soon"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Machinery",
+      "set": "nightmare",
+      "words": [
+        "grinding",
+        "misfiring",
+        "radio-tuned-to-nothing",
+        "camera-glitch",
+        "lights-cycling",
+        "generator-dying",
+        "elevator-descending",
+        "phone-ringing-unplugged",
+        "static-shaped-like-speech",
+        "still-recording"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Hunger & Thirst",
+      "set": "nightmare",
+      "words": [
+        "parched",
+        "cracked-lipped",
+        "cotton-mouthed",
+        "rationed",
+        "last-can",
+        "boiling-snow",
+        "salt-craving",
+        "days-since",
+        "gaunt",
+        "considering"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Sickness",
+      "set": "nightmare",
+      "words": [
+        "feverish",
+        "delirious",
+        "sweating-through",
+        "lymph-swollen",
+        "jaundiced",
+        "seeping",
+        "quarantined",
+        "index-case",
+        "incubating",
+        "spreading"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "The Unseen Room",
+      "set": "nightmare",
+      "words": [
+        "sealed",
+        "bricked-over",
+        "floorplan-doesn't-match",
+        "extra-window",
+        "unaccounted-square-footage",
+        "wallpaper-bulging",
+        "scratching-behind",
+        "key-lost",
+        "opened-once",
+        "never-again"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Complicity",
+      "set": "nightmare",
+      "words": [
+        "knew",
+        "watched",
+        "said-nothing",
+        "locked-the-door",
+        "drew-lots",
+        "held-them-down",
+        "benefited",
+        "town-agreed",
+        "kept-it-quiet",
+        "our-fault"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Return",
+      "set": "nightmare",
+      "words": [
+        "came-back-wrong",
+        "wearing-their-clothes",
+        "remembers-everything-but-one-thing",
+        "colder",
+        "doesn't-eat",
+        "stands-at-night",
+        "favors-the-left-side",
+        "learning-again",
+        "improving",
+        "almost-convincing"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Scale",
+      "set": "nightmare",
+      "words": [
+        "vast",
+        "indifferent",
+        "older-than-language",
+        "unnameable",
+        "unmappable",
+        "dwarfing",
+        "tectonic",
+        "unbothered",
+        "barely-noticed-us",
+        "turning-over"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Countdown",
+      "set": "nightmare",
+      "words": [
+        "three-nights-left",
+        "waning",
+        "thinning",
+        "calendar-marked",
+        "harvest-due",
+        "the-anniversary",
+        "when-the-frost-comes",
+        "sunset-tomorrow",
+        "almost",
+        "now"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Storm",
+      "set": "setting",
+      "words": [
+        "thunderhead",
+        "sheet-lightning",
+        "hail-battered",
+        "wind-screaming",
+        "roof-stripped",
+        "power-out",
+        "siren-warbling",
+        "green-skied",
+        "funnel",
+        "unnatural-calm"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Fire & Ash",
+      "set": "setting",
+      "words": [
+        "smoldering",
+        "char-black",
+        "ember-spitting",
+        "soot-caked",
+        "cinder",
+        "backdraft",
+        "smoke-thick",
+        "scorched-outline",
+        "still-burning",
+        "nothing-left"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Farm & Harvest",
+      "set": "setting",
+      "words": [
+        "scarecrow",
+        "silo",
+        "thresher",
+        "slaughter-shed",
+        "bloated-livestock",
+        "blighted-crop",
+        "empty-coop",
+        "salt-sown",
+        "culling",
+        "last-harvest"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Sea & Shore",
+      "set": "setting",
+      "words": [
+        "kelp-choked",
+        "barnacled",
+        "tide-stranded",
+        "foghorn",
+        "riptide",
+        "driftwood-bone",
+        "gull-picked",
+        "brine-stinking",
+        "lighthouse-dark",
+        "washed-up"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "City After Dark",
+      "set": "setting",
+      "words": [
+        "alley-narrow",
+        "sodium-lit",
+        "grate-steaming",
+        "shuttered",
+        "tagged",
+        "siren-distant",
+        "window-lit-alone",
+        "stairwell-echo",
+        "rooftop-figure",
+        "unpeopled"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Roads & Travel",
+      "set": "setting",
+      "words": [
+        "shoulderless",
+        "mile-marker",
+        "roadkill-strewn",
+        "detour",
+        "dead-end",
+        "gas-station-closed",
+        "hitchhiker",
+        "headlights-behind",
+        "no-turnoff",
+        "same-sign-again"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Surgery",
+      "set": "body",
+      "words": [
+        "sterile",
+        "retracted",
+        "sutured",
+        "anesthetized-but-aware",
+        "clamp",
+        "incision",
+        "exposed",
+        "cauterized",
+        "unaccounted-instrument",
+        "closed-up"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Teeth",
+      "set": "body",
+      "words": [
+        "grinding",
+        "chipped",
+        "loosening",
+        "extra-rows",
+        "molars-shifting",
+        "canines-lengthening",
+        "gumline",
+        "enamel-worn",
+        "in-the-pocket",
+        "not-mine"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Insects & Swarm",
+      "set": "creature",
+      "words": [
+        "chitinous",
+        "antennae-twitching",
+        "seething",
+        "larval",
+        "hatching",
+        "hive-hum",
+        "carapace",
+        "mandibles",
+        "wing-rasp",
+        "under-the-skin"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Birds",
+      "set": "creature",
+      "words": [
+        "carrion-circling",
+        "corvid",
+        "murder",
+        "roost-heavy",
+        "beak-worn",
+        "nesting-in-the-walls",
+        "one-wing",
+        "silent-flock",
+        "watching-from-the-line",
+        "all-facing-you"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Beasts",
+      "set": "creature",
+      "words": [
+        "low-slung",
+        "hackled",
+        "panting",
+        "red-eyed",
+        "pack-circling",
+        "unshepherded",
+        "rabid",
+        "foaming",
+        "hoof-struck",
+        "wrong-gait"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Fungus & Growth",
+      "set": "creature",
+      "words": [
+        "spore-clouded",
+        "mycelial",
+        "bloom",
+        "creeping-mold",
+        "fruiting-body",
+        "damp-rot",
+        "colonizing",
+        "thread-fine",
+        "blackening",
+        "taking-root"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Basements & Crawlspaces",
+      "set": "setting",
+      "words": [
+        "low-ceilinged",
+        "dirt-floored",
+        "pipe-dripping",
+        "insulation-torn",
+        "headroom-less",
+        "backing-out",
+        "flashlight-narrow",
+        "further-than-expected",
+        "packed-earth",
+        "disturbed"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Mirrors & Reflections",
+      "set": "object",
+      "words": [
+        "silvered",
+        "warped",
+        "fogged",
+        "blink-delayed",
+        "empty-behind-you",
+        "cracked-across-the-face",
+        "covered-with-cloth",
+        "turned-to-the-wall",
+        "still-smiling",
+        "stepping-forward"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Photographs",
+      "set": "object",
+      "words": [
+        "sepia",
+        "unlabeled",
+        "faces-scratched-out",
+        "overexposed",
+        "one-too-many",
+        "unfamiliar-room",
+        "taken-from-outside",
+        "developing",
+        "last-frame",
+        "no-photographer"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Dreams",
+      "set": "psychological",
+      "words": [
+        "recurring",
+        "lucid-then-not",
+        "sinking",
+        "doorways-repeating",
+        "unable-to-run",
+        "voice-narrating",
+        "waking-into-another",
+        "remembered-too-clearly",
+        "shared",
+        "not-mine"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Madness & Unraveling",
+      "set": "psychological",
+      "words": [
+        "fraying",
+        "incoherent",
+        "muttering",
+        "papering-the-walls",
+        "obsessive-tally",
+        "hearing-instructions",
+        "convinced",
+        "no-longer-arguing",
+        "calm-about-it",
+        "complying"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Cults & Congregation",
+      "set": "human",
+      "words": [
+        "vestment",
+        "hooded",
+        "kneeling",
+        "tithe-day",
+        "elect",
+        "cleansing",
+        "initiate",
+        "the-word",
+        "the-work",
+        "faithful"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Winter & Famine",
+      "set": "setting",
+      "words": [
+        "snowbound",
+        "whiteout",
+        "drift-buried",
+        "rationed",
+        "thin-broth",
+        "bone-boiled",
+        "wolves-closer",
+        "firewood-gone",
+        "spring-far",
+        "choosing"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Fog & Obscurity",
+      "set": "setting",
+      "words": [
+        "sea-thick",
+        "headlight-swallowing",
+        "shape-forming",
+        "sound-carrying-wrong",
+        "arm's-length",
+        "rolling-in",
+        "unlifting",
+        "moving-against-the-wind",
+        "parting",
+        "closing"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Blood",
+      "set": "body",
+      "words": [
+        "arterial",
+        "pooled",
+        "tacky",
+        "spatter-arced",
+        "dried-brown",
+        "trail-leading",
+        "transfused",
+        "thinned",
+        "sacrificial",
+        "not-enough"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Bone",
+      "set": "body",
+      "words": [
+        "splintered",
+        "hairline-fractured",
+        "protruding",
+        "unset",
+        "femoral",
+        "cranial",
+        "ossified",
+        "brittle",
+        "extra",
+        "arranged"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Hair & Nails",
+      "set": "body",
+      "words": [
+        "matted",
+        "clogging-the-drain",
+        "still-growing",
+        "torn-out",
+        "wound-around",
+        "split",
+        "bitten-to-the-quick",
+        "blackening",
+        "shed",
+        "found-in-food"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Eyes",
+      "set": "body",
+      "words": [
+        "bloodshot",
+        "filmed",
+        "rolling-back",
+        "dilated",
+        "sewn-shut",
+        "empty-socket",
+        "tracking",
+        "unmoving",
+        "wrong-color",
+        "opening"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Hands",
+      "set": "body",
+      "words": [
+        "grasping",
+        "nail-bed-blue",
+        "knuckle-swollen",
+        "six-fingered",
+        "cold-palmed",
+        "reaching-under",
+        "print-smeared",
+        "wringing",
+        "on-the-shoulder",
+        "not-letting-go"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Mouths",
+      "set": "body",
+      "words": [
+        "lipless",
+        "unhinging",
+        "foam-flecked",
+        "gaping",
+        "stitched",
+        "speaking-without-moving",
+        "full",
+        "breathing-out",
+        "chewing",
+        "forming-your-name"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Names & Naming",
+      "set": "occult",
+      "words": [
+        "unspoken",
+        "true-name",
+        "whispered-once",
+        "carved",
+        "struck-from-the-record",
+        "given-back",
+        "answering-to-it",
+        "mispronounced",
+        "called",
+        "known"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Bargains & Debts",
+      "set": "occult",
+      "words": [
+        "signed",
+        "in-blood",
+        "seven-years",
+        "collateral",
+        "firstborn",
+        "interest-compounding",
+        "clause-unread",
+        "due",
+        "collector",
+        "terms-honored"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Curses",
+      "set": "occult",
+      "words": [
+        "generational",
+        "hex-bound",
+        "tongue-tied",
+        "luckless",
+        "marked",
+        "unbroken",
+        "laid-at-the-cradle",
+        "spoken-in-anger",
+        "sticking",
+        "inherited"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Prophecy",
+      "set": "occult",
+      "words": [
+        "foretold",
+        "vellum-inked",
+        "mistranslated",
+        "fulfilled-sideways",
+        "third-sign",
+        "the-year-named",
+        "unavoidable",
+        "dismissed",
+        "coming-true",
+        "on-schedule"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Graves & Burial",
+      "set": "setting",
+      "words": [
+        "six-foot",
+        "quicklimed",
+        "unconsecrated",
+        "plot-shared",
+        "headstone-blank",
+        "freshly-turned",
+        "sunken",
+        "disinterred",
+        "empty-coffin",
+        "room-for-one-more"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Churches & Chapels",
+      "set": "setting",
+      "words": [
+        "deconsecrated",
+        "pew-splintered",
+        "altar-stained",
+        "bell-cracked",
+        "icon-defaced",
+        "nave-dark",
+        "crypt-below",
+        "boarded",
+        "congregation-gone",
+        "still-lit"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Schools",
+      "set": "setting",
+      "words": [
+        "locker-lined",
+        "chalk-dusted",
+        "fluorescent-buzzing",
+        "gym-echoing",
+        "roll-call",
+        "one-desk-empty",
+        "drawing-on-the-wall",
+        "recess-silent",
+        "after-hours",
+        "still-enrolled"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Hospitals at Night",
+      "set": "setting",
+      "words": [
+        "ward-dim",
+        "monitor-flatlining",
+        "gurney-squeal",
+        "curtain-drawn",
+        "code-called",
+        "unstaffed",
+        "room-306",
+        "chart-missing",
+        "visiting-hours-over",
+        "bed-still-warm"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Prisons",
+      "set": "setting",
+      "words": [
+        "cell-block",
+        "bar-rust",
+        "solitary",
+        "lights-out",
+        "count-wrong",
+        "corridor-clang",
+        "yard-empty",
+        "warden-gone",
+        "key-ring",
+        "unlocked"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Mines & Tunnels",
+      "set": "setting",
+      "words": [
+        "shaft-deep",
+        "timber-groaning",
+        "canary-still",
+        "seam-black",
+        "cave-in",
+        "lamp-dying",
+        "air-thinning",
+        "further-in",
+        "tapping-from-behind",
+        "sealed-for-a-reason"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Deserts",
+      "set": "setting",
+      "words": [
+        "sun-hammered",
+        "mirage-shimmering",
+        "bone-bleached",
+        "wind-scoured",
+        "trackless",
+        "waterless",
+        "buzzard-marked",
+        "dune-shifting",
+        "buried-town",
+        "no-shade"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Swamps",
+      "set": "setting",
+      "words": [
+        "miasmic",
+        "cypress-hung",
+        "sucking-mud",
+        "gator-eyed",
+        "moss-draped",
+        "black-water",
+        "wading",
+        "hip-deep",
+        "something-brushed",
+        "going-under"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Mountains & Cold Heights",
+      "set": "setting",
+      "words": [
+        "scree-loose",
+        "crevasse",
+        "whiteout-ridge",
+        "oxygen-thin",
+        "base-camp-silent",
+        "rope-cut",
+        "summit-fever",
+        "footprints-alone",
+        "avalanche",
+        "unrecovered"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Islands",
+      "set": "setting",
+      "words": [
+        "boat-gone",
+        "tideline",
+        "no-mainland",
+        "generator-hut",
+        "sole-road",
+        "inbred-quiet",
+        "festival-day",
+        "welcomed",
+        "chosen",
+        "no-ferry-till-spring"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Ships & Wrecks",
+      "set": "setting",
+      "words": [
+        "hull-groaning",
+        "hold-flooded",
+        "log-final-entry",
+        "crew-absent",
+        "meal-half-eaten",
+        "adrift",
+        "becalmed",
+        "listing",
+        "ghost-vessel",
+        "boarded"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Trains",
+      "set": "setting",
+      "words": [
+        "carriage-swaying",
+        "tunnel-dark",
+        "unlit-platform",
+        "last-service",
+        "conductor-faceless",
+        "no-stops",
+        "window-reflection",
+        "corridor-lengthening",
+        "doors-locked",
+        "terminus"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Cars & Highway",
+      "set": "setting",
+      "words": [
+        "engine-cutting",
+        "fuel-empty",
+        "mirror-figure",
+        "backseat",
+        "radio-dead",
+        "wipers-useless",
+        "brake-line",
+        "ditch",
+        "door-ajar-chime",
+        "hazard-blinking"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Telephones & Signals",
+      "set": "object",
+      "words": [
+        "line-crackling",
+        "call-from-inside",
+        "number-disconnected",
+        "voicemail-breathing",
+        "no-bars",
+        "ringing-at-3am",
+        "redial",
+        "answered",
+        "hung-up",
+        "called-back"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Screens & Feeds",
+      "set": "object",
+      "words": [
+        "camera-two",
+        "timestamp-wrong",
+        "frame-dropped",
+        "motion-triggered",
+        "livestream",
+        "pixelating",
+        "playback",
+        "nobody-in-frame",
+        "until-now",
+        "recording-stopped"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Written Warnings",
+      "set": "object",
+      "words": [
+        "do-not-enter",
+        "scrawled",
+        "in-blood",
+        "all-caps",
+        "repeated-thousands",
+        "don't-look",
+        "run",
+        "it's-inside",
+        "too-late",
+        "help"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Children",
+      "set": "human",
+      "words": [
+        "solemn",
+        "unblinking",
+        "humming",
+        "drawing-the-same-thing",
+        "imaginary-friend",
+        "knows-too-much",
+        "standing-at-the-bed",
+        "holding-hands-in-a-line",
+        "not-blinking",
+        "calling-you-mother"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "The Elderly",
+      "set": "human",
+      "words": [
+        "rheumy",
+        "thin-wristed",
+        "remembers-the-last-time",
+        "warning-unheeded",
+        "lucid-suddenly",
+        "keeper-of-the-record",
+        "refuses-to-leave",
+        "waiting",
+        "ready",
+        "was-there"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Twins & Doubles",
+      "set": "human",
+      "words": [
+        "identical",
+        "mirrored",
+        "finishing-sentences",
+        "one-too-many",
+        "doppelganger",
+        "seen-across-town",
+        "replacing",
+        "indistinguishable",
+        "met",
+        "only-one-leaves"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "The Final Hour",
+      "set": "nightmare",
+      "words": [
+        "bolted",
+        "barricaded",
+        "last-round",
+        "phone-dead",
+        "dawn-hours-off",
+        "breathing-shallow",
+        "something-testing-the-door",
+        "holding",
+        "giving",
+        "opened"
+      ]
+    }
+  ]
+}
